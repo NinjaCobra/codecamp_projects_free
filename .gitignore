@@ -1,0 +1,4 @@
+# ignore images
+node_modules/
+*.jpg
+*.gif
